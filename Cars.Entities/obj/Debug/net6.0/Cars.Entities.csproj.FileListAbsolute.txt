@@ -1,0 +1,14 @@
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\bin\Debug\net6.0\Cars.Entities.deps.json
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\bin\Debug\net6.0\Cars.Entities.runtimeconfig.json
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\bin\Debug\net6.0\Cars.Entities.dll
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\bin\Debug\net6.0\Cars.Entities.pdb
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\Cars.Entities.csproj.AssemblyReference.cache
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\Cars.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\Cars.Entities.AssemblyInfoInputs.cache
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\Cars.Entities.AssemblyInfo.cs
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\Cars.Entities.csproj.CoreCompileInputs.cache
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\Cars.Entities.dll
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\refint\Cars.Entities.dll
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\Cars.Entities.pdb
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\Cars.Entities.genruntimeconfig.cache
+C:\Users\malio\Desktop\Alpha\AlphastellarCars\Cars.Entities\obj\Debug\net6.0\ref\Cars.Entities.dll
